@@ -28,7 +28,7 @@ This project uses the commonly referenced 14 features:
 
 #Model Used
 
-- ✅ **Logistic Regression** (primary model)
+- Logistic Regression(primary model)
 
 Logistic Regression is a fundamental classification algorithm that outputs probabilities and is well-suited for binary outcomes like heart disease prediction.
 
@@ -57,7 +57,7 @@ The model is evaluated using:
 - Matplotlib, Seaborn
 - Scikit-learn
 
-## 🚀 How to Use
+#How to Use:
 
 1. **Open the notebook directly in Google Colab:**
    [Heart_Disease_Prediction_.ipynb](https://github.com/jubayer032003/ML-DL-Project/blob/main/Heart_Disease_Prediction_.ipynb)
