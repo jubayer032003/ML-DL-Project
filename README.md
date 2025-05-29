@@ -1,7 +1,7 @@
-#Heart Disease Prediction 
+## Heart Disease Prediction 
 This project uses a supervised machine learning approach to predict heart disease using **Logistic Regression**. The code is written and executed in **Google Colab** using Python and common data science libraries.
 
-#Dataset
+## Dataset
 
 The dataset is taken from [Kaggle - Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset), which combines data from:
 - Cleveland
@@ -26,13 +26,13 @@ This project uses the commonly referenced 14 features:
 - `thal`: Thalassemia (1 = normal; 2 = fixed defect; 3 = reversible defect)
 - `target`: Diagnosis of heart disease (1 = presence; 0 = absence)
 
-#Model Used
+## Model Used
 
 - Logistic Regression(primary model)
 
 Logistic Regression is a fundamental classification algorithm that outputs probabilities and is well-suited for binary outcomes like heart disease prediction.
 
-#Exploratory Data Analysis
+## Exploratory Data Analysis
 
 The notebook includes:
 - Correlation matrix heatmap
@@ -40,7 +40,7 @@ The notebook includes:
 - Target class balance check
 - Feature scaling and cleaning
 
-#Model Evaluation
+## Model Evaluation
 
 The model is evaluated using:
 - Accuracy
@@ -57,7 +57,7 @@ The model is evaluated using:
 - Matplotlib, Seaborn
 - Scikit-learn
 
-#How to Use:
+## How to Use:
 
 1. **Open the notebook directly in Google Colab:**
    [Heart_Disease_Prediction_.ipynb](https://github.com/jubayer032003/ML-DL-Project/blob/main/Heart_Disease_Prediction_.ipynb)
